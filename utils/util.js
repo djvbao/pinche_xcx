@@ -24,7 +24,7 @@ var wxAppinfo = {
 };
 
 //修改成你的appid及appsecret
-var AppConf = { 'appid': 'wx0aa456241abc9e8e', 'appsecret':'cb10ea69158ef5c786c9e39cf6ea478f'};
+var AppConf = { 'appid': 'wx5e176e0474276c8', 'appsecret':'ecb0d649ec6d33d5b45b4bb512a3a4a9'};
 
 function req(url, data, cb) {
   data.appid = AppConf.appid;
