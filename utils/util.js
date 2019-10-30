@@ -19,7 +19,7 @@ function formatNumber(n) {
 var rootDocment = 'https://xcx.codems.cn/api/';
 
 var wxAppinfo = {
-  'name': '同城拼车',
+  'name': '佤邦顺风车',
   'logo': 'https://wx.qlogo.cn/mmhead/Q3auHgzwzM41GbicIwic6JOHzehVqd3OubV4GmEQA67KRXyoZ3Y6maHg/0'
 };
 
